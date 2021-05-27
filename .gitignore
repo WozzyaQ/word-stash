@@ -1,3 +1,10 @@
+# Ignore idea
+.idea
+
+
+#Ignore target files
+target
+
 # Compiled class file
 *.class
 
